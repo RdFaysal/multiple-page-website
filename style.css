@@ -9,6 +9,9 @@ nav{
     background-color: #1B0F44;
     padding: 10px 200px;
     border-bottom: 4px solid #401E63;
+    position: sticky;
+    top: 0;
+
 }
 
 nav div{
